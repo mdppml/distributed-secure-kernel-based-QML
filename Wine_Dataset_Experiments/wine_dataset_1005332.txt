@@ -1,0 +1,56 @@
+Starting job script
+Activating conda environment
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Time taken for 1 is 9.379618644714355.
+Time taken for 0 is 9.388332843780518.
+Time taken for 11 is 9.385629653930664.
+Time taken for 5 is 9.384759187698364.
+Time taken for 4 is 9.390619039535522.
+Time taken for 15 is 9.39289140701294.
+Time taken for 13 is 9.388225317001343.
+Time taken for 14 is 9.392014741897583.
+Time taken for 10 is 9.403600692749023.
+Time taken for 2 is 9.41287875175476.
+Time taken for 8 is 9.416477680206299.
+Time taken for 6 is 9.419205904006958.
+Time taken for 7 is 9.426322221755981.
+Time taken for 12 is 9.4323570728302.
+Time taken for 3 is 9.43428349494934.
+Time taken for 9 is 11.792254209518433.
+Process 6 called the similarity function 635 times.
+Process 2 called the similarity function 635 times.
+Process 14 called the similarity function 634 times.
+Process 4 called the similarity function 635 times.
+Process 10 called the similarity function 634 times.
+Process 12 called the similarity function 634 times.
+Process 0 called the similarity function 635 times.
+Process 8 called the similarity function 635 times.
+Process 3 called the similarity function 635 times.
+Process 7 called the similarity function 635 times.
+Process 1 called the similarity function 635 times.
+Process 5 called the similarity function 635 times.
+Process 13 called the similarity function 634 times.
+Process 15 called the similarity function 634 times.
+Process 11 called the similarity function 634 times.
+Process 9 called the similarity function 634 times.
+Kernel matrix saved.
+Custom Kernel SVM Accuracy: 0.9293103448275861
+SVM Accuracy on PCA Transformed Data: 0.8246305418719212
+Linear Kernel SVM Accuracy: 0.9862068965517242
+Linear Kernel SVM Accuracy on PCA-transformed data: 0.9790640394088669
+Rbf Kernel SVM Accuracy on PCA-transformed data: 0.9721674876847292
