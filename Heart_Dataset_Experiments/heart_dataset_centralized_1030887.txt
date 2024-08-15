@@ -1,0 +1,57 @@
+Starting job script
+Activating conda environment
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Time taken for 0 is 1.1803250312805176.
+Time taken for 1 is 1.1038622856140137.
+Time taken for 8 is 0.657825231552124.
+Time taken for 14 is 0.19623804092407227.
+Time taken for 5 is 0.8679935932159424.
+Time taken for 6 is 0.7508821487426758.
+Time taken for 11 is 0.4260599613189697.
+Time taken for 2 is 1.0326879024505615.
+Time taken for 4 is 0.9346604347229004.
+Time taken for 13 is 0.3670487403869629.
+Time taken for 9 is 0.615581750869751.
+Time taken for 10 is 0.4530200958251953.
+Time taken for 3 is 0.9323642253875732.
+Time taken for 12 is 0.3946108818054199.
+Time taken for 7 is 0.6773080825805664.
+Time taken for 15 is 0.0872488021850586.
+Process 8 called the similarity function 516763 times.
+Process 0 called the similarity function 516764 times.
+Process 2 called the similarity function 516764 times.
+Process 3 called the similarity function 516763 times.
+Process 7 called the similarity function 516763 times.
+Process 10 called the similarity function 516763 times.
+Process 14 called the similarity function 516763 times.
+Process 1 called the similarity function 516764 times.
+Process 9 called the similarity function 516763 times.
+Process 6 called the similarity function 516763 times.
+Process 5 called the similarity function 516763 times.
+Process 12 called the similarity function 516763 times.
+Process 13 called the similarity function 516763 times.
+Process 15 called the similarity function 516763 times.
+Process 11 called the similarity function 516763 times.
+Process 4 called the similarity function 516763 times.
+Kernel matrix saved.
+Custom Kernel SVM Accuracy (Noise Level 0): 0.630840669586057
+SVM Accuracy on PCA Transformed Data (Noise Level 0): 0.6249384238314127
+Linear Kernel SVM Accuracy: 0.6940445645242694
+Linear Kernel SVM Accuracy on PCA-transformed data: 0.6672411760972647
+Rbf Kernel SVM Accuracy: 0.7282304444666068
+Rbf Kernel SVM Accuracy on PCA-transformed data: 0.6537101341529385

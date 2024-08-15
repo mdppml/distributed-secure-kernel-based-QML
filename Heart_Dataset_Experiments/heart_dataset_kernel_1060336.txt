@@ -1,0 +1,160 @@
+Starting job script
+Activating conda environment
+Evaluating SVM without PCA:
+Cross-validated accuracy without PCA: 0.6788 ± 0.0108
+Determining optimal number of components using linear kernel PCA and linear SVM:
+
+Running SVM with Kernel PCA (2 components)
+Cross-validated accuracy with 2 components: 0.6658 ± 0.0165
+
+Running SVM with Kernel PCA (3 components)
+Cross-validated accuracy with 3 components: 0.6665 ± 0.0112
+
+Running SVM with Kernel PCA (4 components)
+Cross-validated accuracy with 4 components: 0.6741 ± 0.0131
+
+Running SVM with Kernel PCA (5 components)
+Cross-validated accuracy with 5 components: 0.6788 ± 0.0095
+
+Running SVM with Kernel PCA (6 components)
+Cross-validated accuracy with 6 components: 0.6771 ± 0.0098
+
+Running SVM with Kernel PCA (7 components)
+Cross-validated accuracy with 7 components: 0.6783 ± 0.0119
+
+Optimal number of components determined: 5 with accuracy: 0.6788
+
+Evaluating kernel file: heart_kernel_matrix_noise_level_0.pkl
+Kernel matrix size: (4066, 4066)
+Kernel matrix (first 5 elements):
+[[1.         0.31640625 0.203125   0.         0.        ]
+ [0.31640625 1.         0.20507812 0.16796875 0.10742188]
+ [0.203125   0.20507812 1.         0.         0.09179688]
+ [0.         0.16796875 0.         1.         0.00585938]
+ [0.         0.10742188 0.09179688 0.00585938 1.        ]]
+Variance within the kernel matrix: 0.027579495362460092
+
+Running custom kernel SVM directly with precomputed kernel
+Custom kernel SVM direct accuracy: 0.6340 ± 0.0143
+
+Evaluating CPV, Reconstruction Error, and SVM Accuracy with different number of components:
+
+Number of components: 2
+CPV: 1.0000
+Reconstruction Error: 0.0152
+SVM Accuracy: 0.6249 ± 0.0002
+
+Number of components: 3
+CPV: 1.0000
+Reconstruction Error: 0.0131
+SVM Accuracy: 0.6249 ± 0.0002
+
+Number of components: 4
+CPV: 1.0000
+Reconstruction Error: 0.0115
+SVM Accuracy: 0.6422 ± 0.0092
+
+Number of components: 5
+CPV: 1.0000
+Reconstruction Error: 0.0102
+SVM Accuracy: 0.6340 ± 0.0122
+
+Number of components: 6
+CPV: 1.0000
+Reconstruction Error: 0.0091
+SVM Accuracy: 0.6422 ± 0.0092
+
+Number of components: 7
+CPV: 1.0000
+Reconstruction Error: 0.0082
+SVM Accuracy: 0.6249 ± 0.0002
+
+Evaluating kernel file: heart_kernel_matrix_noise_level_1.pkl
+Kernel matrix size: (4066, 4066)
+Kernel matrix (first 5 elements):
+[[0.         0.         0.03710938 0.06054688 0.        ]
+ [0.         0.02148438 0.04101562 0.         0.015625  ]
+ [0.03710938 0.04101562 0.03710938 0.0078125  0.00390625]
+ [0.06054688 0.         0.0078125  0.01171875 0.        ]
+ [0.         0.015625   0.00390625 0.         0.        ]]
+Variance within the kernel matrix: 0.00044545240567477745
+
+Running custom kernel SVM directly with precomputed kernel
+Custom kernel SVM direct accuracy: 0.5807 ± 0.0098
+
+Evaluating CPV, Reconstruction Error, and SVM Accuracy with different number of components:
+
+Number of components: 2
+CPV: 1.0000
+Reconstruction Error: 0.0004
+SVM Accuracy: 0.6249 ± 0.0002
+
+Number of components: 3
+CPV: 1.0000
+Reconstruction Error: 0.0004
+SVM Accuracy: 0.6249 ± 0.0002
+
+Number of components: 4
+CPV: 1.0000
+Reconstruction Error: 0.0004
+SVM Accuracy: 0.6249 ± 0.0002
+
+Number of components: 5
+CPV: 1.0000
+Reconstruction Error: 0.0004
+SVM Accuracy: 0.6249 ± 0.0002
+
+Number of components: 6
+CPV: 1.0000
+Reconstruction Error: 0.0004
+SVM Accuracy: 0.6249 ± 0.0002
+
+Number of components: 7
+CPV: 1.0000
+Reconstruction Error: 0.0004
+SVM Accuracy: 0.6249 ± 0.0002
+
+Evaluating kernel file: heart_kernel_matrix_noise_level_2.pkl
+Kernel matrix size: (4066, 4066)
+Kernel matrix (first 5 elements):
+[[0.00390625 0.0078125  0.046875   0.01757812 0.03320312]
+ [0.0078125  0.         0.         0.01953125 0.01171875]
+ [0.046875   0.         0.0546875  0.         0.        ]
+ [0.01757812 0.01953125 0.         0.         0.04492188]
+ [0.03320312 0.01171875 0.         0.04492188 0.01757812]]
+Variance within the kernel matrix: 0.0004455195411029155
+
+Running custom kernel SVM directly with precomputed kernel
+Custom kernel SVM direct accuracy: 0.5814 ± 0.0072
+
+Evaluating CPV, Reconstruction Error, and SVM Accuracy with different number of components:
+
+Number of components: 2
+CPV: 1.0000
+Reconstruction Error: 0.0004
+SVM Accuracy: 0.6249 ± 0.0002
+
+Number of components: 3
+CPV: 1.0000
+Reconstruction Error: 0.0004
+SVM Accuracy: 0.6249 ± 0.0002
+
+Number of components: 4
+CPV: 1.0000
+Reconstruction Error: 0.0004
+SVM Accuracy: 0.6249 ± 0.0002
+
+Number of components: 5
+CPV: 1.0000
+Reconstruction Error: 0.0004
+SVM Accuracy: 0.6249 ± 0.0002
+
+Number of components: 6
+CPV: 1.0000
+Reconstruction Error: 0.0004
+SVM Accuracy: 0.6249 ± 0.0002
+
+Number of components: 7
+CPV: 1.0000
+Reconstruction Error: 0.0004
+SVM Accuracy: 0.6249 ± 0.0002

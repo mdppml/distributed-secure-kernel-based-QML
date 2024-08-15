@@ -1,0 +1,115 @@
+Starting job script
+Activating conda environment
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Time taken for 0 is 1.0021934509277344.
+Time taken for 1 is 0.9414353370666504.
+Time taken for 2 is 0.8592827320098877.
+Time taken for 8 is 0.4359753131866455.
+Time taken for 4 is 0.6859347820281982.
+Time taken for 6 is 0.5777361392974854.
+Time taken for 12 is 0.20099353790283203.
+Time taken for 10 is 0.3001716136932373.
+Time taken for 11 is 0.2821969985961914.
+Time taken for 3 is 0.836634635925293.
+Time taken for 9 is 0.43387746810913086.
+Time taken for 5 is 0.6858692169189453.
+Time taken for 7 is 0.5152227878570557.
+Time taken for 13 is 0.11954593658447266.
+Time taken for 14 is 0.18333911895751953.
+Time taken for 15 is 0.09276008605957031.
+Process 10 called the similarity function 516763 times.
+Process 14 called the similarity function 516763 times.
+Process 0 called the similarity function 516764 times.
+Process 4 called the similarity function 516763 times.
+Process 3 called the similarity function 516763 times.
+Process 9 called the similarity function 516763 times.
+Process 6 called the similarity function 516763 times.
+Process 15 called the similarity function 516763 times.
+Process 12 called the similarity function 516763 times.
+Process 5 called the similarity function 516763 times.
+Process 11 called the similarity function 516763 times.
+Process 1 called the similarity function 516764 times.
+Process 7 called the similarity function 516763 times.
+Process 2 called the similarity function 516764 times.
+Process 13 called the similarity function 516763 times.
+Process 8 called the similarity function 516763 times.
+Time taken for 13 is 0.8984427452087402.
+Time taken for 1 is 1.0488817691802979.
+Time taken for 8 is 0.9582819938659668.
+Time taken for 4 is 1.0154938697814941.
+Time taken for 7 is 0.9688262939453125.Time taken for 12 is 0.9098031520843506.
+Time taken for 11 is 0.9215178489685059.
+Time taken for 14 is 0.872626543045044.
+Time taken for 2 is 1.0371527671813965.
+Time taken for 3 is 1.0264701843261719.
+Time taken for 9 is 0.9469001293182373.
+Time taken for 5 is 0.9896824359893799.
+Time taken for 6 is 0.9804294109344482.
+Time taken for 10 is 0.9320318698883057.
+Time taken for 15 is 0.8625674247741699.
+Kernel matrix saved.
+Time taken for 0 is 0.24749970436096191.
+Process 6 called the similarity function 516763 times.
+Process 2 called the similarity function 516764 times.
+Process 3 called the similarity function 516763 times.
+Process 1 called the similarity function 516764 times.
+Process 12 called the similarity function 516763 times.
+Process 0 called the similarity function 516764 times.
+Process 10 called the similarity function 516763 times.
+Process 15 called the similarity function 516763 times.
+Process 4 called the similarity function 516763 times.
+Process 9 called the similarity function 516763 times.
+Process 5 called the similarity function 516763 times.
+Process 7 called the similarity function 516763 times.
+Process 14 called the similarity function 516763 times.
+Process 13 called the similarity function 516763 times.
+Process 11 called the similarity function 516763 times.
+Process 8 called the similarity function 516763 times.
+Time taken for 2 is 0.25953221321105957.
+Time taken for 3 is 0.24947595596313477.
+Time taken for 4 is 0.25589561462402344.
+Time taken for 5 is 0.25650882720947266.
+Time taken for 8 is 0.22848081588745117.
+Time taken for 6 is 0.25080251693725586.
+Time taken for 9 is 0.25904226303100586.
+Time taken for 10 is 0.2578902244567871.
+Time taken for 12 is 0.2473156452178955.
+Time taken for 11 is 0.2633202075958252.
+Time taken for 1 is 0.37795591354370117.
+Time taken for 14 is 0.2614603042602539.
+Time taken for 7 is 0.37737274169921875.
+Time taken for 15 is 0.3686254024505615.
+Time taken for 13 is 0.5275106430053711.
+Time taken for 0 is 0.24684524536132812.
+Process 6 called the similarity function 516763 times.
+Process 12 called the similarity function 516763 times.
+Process 1 called the similarity function 516764 times.
+Process 15 called the similarity function 516763 times.
+Process 10 called the similarity function 516763 times.
+Process 4 called the similarity function 516763 times.
+Process 0 called the similarity function 516764 times.
+Process 2 called the similarity function 516764 times.
+Process 9 called the similarity function 516763 times.
+Process 3 called the similarity function 516763 times.
+Process 5 called the similarity function 516763 times.
+Process 7 called the similarity function 516763 times.
+Process 14 called the similarity function 516763 times.
+Process 11 called the similarity function 516763 times.
+Process 13 called the similarity function 516763 times.
+Process 8 called the similarity function 516763 times.
+Kernel matrix saved.
