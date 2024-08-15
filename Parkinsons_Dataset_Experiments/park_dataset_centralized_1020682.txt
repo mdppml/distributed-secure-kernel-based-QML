@@ -1,0 +1,125 @@
+Starting job script
+Activating conda environment
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Starting...
+Time taken for 0 is 1.1538288593292236.
+Time taken for 1 is 1.1524555683135986.
+Time taken for 10 is 1.1456854343414307.
+Time taken for 6 is 1.1450927257537842.
+Time taken for 7 is 1.147153615951538.
+Time taken for 14 is 1.1440379619598389.
+Time taken for 11 is 1.14378023147583.
+Time taken for 2 is 1.1469297409057617.
+Time taken for 12 is 1.1458442211151123.
+Time taken for 4 is 1.146559715270996.
+Time taken for 8 is 1.146385669708252.
+Time taken for 15 is 1.1434783935546875.
+Time taken for 3 is 1.1467852592468262.
+Time taken for 13 is 1.1432361602783203.
+Time taken for 5 is 1.1454994678497314.
+Time taken for 9 is 1.144543170928955.
+Process 14 called the similarity function 1110 times.
+Process 13 called the similarity function 1110 times.
+Process 1 called the similarity function 1111 times.
+Process 12 called the similarity function 1110 times.
+Process 3 called the similarity function 1111 times.
+Process 10 called the similarity function 1110 times.
+Process 9 called the similarity function 1110 times.
+Process 6 called the similarity function 1110 times.
+Process 15 called the similarity function 1110 times.
+Process 4 called the similarity function 1111 times.
+Process 7 called the similarity function 1110 times.
+Process 8 called the similarity function 1110 times.
+Process 0 called the similarity function 1111 times.
+Process 2 called the similarity function 1111 times.
+Process 11 called the similarity function 1110 times.
+Process 5 called the similarity function 1111 times.
+Kernel matrix saved.
+Custom Kernel SVM Accuracy (Noise Level 0): 0.7874822190611664
+Time taken for 14 is 1.11342453956604.
+Time taken for 3 is 1.1180145740509033.
+Time taken for 10 is 1.0534977912902832.
+Time taken for 12 is 1.121500015258789.
+Time taken for 11 is 1.05495285987854.
+Time taken for 6 is 1.1227903366088867.
+Time taken for 9 is 1.1257708072662354.
+Time taken for 7 is 1.1267173290252686.
+Time taken for 13 is 1.1287624835968018.
+Time taken for 8 is 1.0623645782470703.
+Time taken for 2 is 1.0940632820129395.
+Time taken for 15 is 1.442040205001831.
+Time taken for 1 is 0.9094200134277344.
+Time taken for 4 is 0.915769100189209.
+Time taken for 5 is 0.9599268436431885.
+SVM Accuracy on PCA Transformed Data (Noise Level 0): 0.7450924608819346
+Linear Kernel SVM Accuracy: 0.845945945945946
+Rbf Kernel SVM Accuracy: 0.8566145092460882
+Time taken for 0 is 1.026256799697876.
+Process 6 called the similarity function 1110 times.
+Process 12 called the similarity function 1110 times.
+Process 14 called the similarity function 1110 times.
+Process 10 called the similarity function 1110 times.
+Process 11 called the similarity function 1110 times.
+Process 8 called the similarity function 1110 times.
+Time taken for 11 is 0.7838208675384521.
+Time taken for 10 is 0.7891619205474854.
+Process 9 called the similarity function 1110 times.
+Time taken for 9 is 0.7803418636322021.
+Process 5 called the similarity function 1111 times.
+Time taken for 5 is 0.7952079772949219.
+Process 4 called the similarity function 1111 times.
+Process 7 called the similarity function 1110 times.
+Time taken for 7 is 0.8758928775787354.
+Time taken for 4 is 0.8802871704101562.
+Time taken for 6 is 0.9867732524871826.
+Process 2 called the similarity function 1111 times.
+Process 15 called the similarity function 1110 times.
+Process 3 called the similarity function 1111 times.
+Time taken for 14 is 0.8014001846313477.
+Time taken for 15 is 0.8756933212280273.
+Time taken for 3 is 0.7953314781188965.
+Time taken for 2 is 0.8912510871887207.
+Process 1 called the similarity function 1111 times.
+Process 0 called the similarity function 1111 times.
+Process 13 called the similarity function 1110 times.
+Kernel matrix saved.
+Custom Kernel SVM Accuracy (Noise Level 1): 0.6275960170697013
+Time taken for 12 is 0.8727080821990967.
+Time taken for 13 is 0.880706787109375.
+Time taken for 8 is 0.8824136257171631.
+SVM Accuracy on PCA Transformed Data (Noise Level 1): 0.6275960170697013
+Time taken for 1 is 1.0189738273620605.
+Time taken for 0 is 0.9275901317596436.
+Process 10 called the similarity function 1110 times.
+Process 9 called the similarity function 1110 times.
+Process 6 called the similarity function 1110 times.
+Process 11 called the similarity function 1110 times.
+Process 5 called the similarity function 1111 times.
+Process 14 called the similarity function 1110 times.
+Process 12 called the similarity function 1110 times.
+Process 4 called the similarity function 1111 times.
+Process 7 called the similarity function 1110 times.
+Process 8 called the similarity function 1110 times.
+Process 3 called the similarity function 1111 times.
+Process 15 called the similarity function 1110 times.
+Process 2 called the similarity function 1111 times.
+Process 1 called the similarity function 1111 times.
+Process 13 called the similarity function 1110 times.
+Process 0 called the similarity function 1111 times.
+Kernel matrix saved.
+Custom Kernel SVM Accuracy (Noise Level 2): 0.6275960170697013
+SVM Accuracy on PCA Transformed Data (Noise Level 2): 0.6275960170697013
