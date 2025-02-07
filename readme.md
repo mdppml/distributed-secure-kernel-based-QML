@@ -10,3 +10,5 @@ This repository contains the implementation of the algorithms presented in the p
   - **Data Loading Scripts**: Scripts to load and preprocess the respective datasets.
   - **Distributed QML Scripts**: Code to run the distributed kernel-based quantum machine learning algorithm on the dataset.
   - **Experimental Results**: Results obtained from running the algorithm on the dataset, including kernel matrices and performance metrics.
+
+- **other_kernels**: This folder contains the code for implementing the polynomial, RBF, and Laplacian kernels as proposed in the paper.
