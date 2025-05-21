@@ -12,3 +12,27 @@ This repository contains the implementation of the algorithms presented in the p
   - **Experimental Results**: Results obtained from running the algorithm on the dataset, including kernel matrices and performance metrics.
 
 - **other_kernels**: This folder contains the code for implementing the polynomial, RBF, and Laplacian kernels as proposed in the paper.
+
+## Citation
+
+Please consider citing our work if it is beneficial to your research. 
+
+```bibtex
+@article{
+swaminathan2025distributed,
+title={Distributed and Secure Kernel-Based Quantum Machine Learning},
+author={Arjhun Swaminathan and Mete Akg{\"u}n},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2025},
+url={https://openreview.net/forum?id=3jdI0aEW3k},
+note={}
+}
+```
+
+## License
+
+This project is released under the MIT License. See [LICENSE](LICENSE) for details.
+
+## Contact for Questions
+`arjhun.swaminathan@uni-tuebingen.de`, `mete.akguen@uni-tuebingen.de`
