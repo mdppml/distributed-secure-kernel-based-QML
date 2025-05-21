@@ -1,6 +1,6 @@
 # Distributed and Secure Kernel-Based Quantum Machine Learning
 
-This repository contains the implementation of the algorithms presented in the paper titled **"Distributed and Secure Kernel-Based Quantum Machine Learning"**. It provides all the necessary code to reproduce the experiments described in the paper, including dataset loading, centralized and distributed computations, and experiment results.
+This repository contains the implementation of the algorithms presented in the paper titled **["PP-GWAS: Privacy Preserving Multi-Site Genome-wide Association Studies"](https://openreview.net/forum?id=3jdI0aEW3k)**. It provides all the necessary code to reproduce the experiments described in the paper, including dataset loading, centralized and distributed computations, and experiment results.
 
 ## Repository Structure
 
