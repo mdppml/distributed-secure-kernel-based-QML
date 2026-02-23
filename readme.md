@@ -16,7 +16,7 @@ This repository contains the implementation of the algorithms presented in the p
 ## Citation
 
 Please consider citing our work if it is beneficial to your research. 
-
+- **Paper**
 ```bibtex
 @article{
 swaminathan2025distributed,
@@ -29,6 +29,17 @@ url={https://openreview.net/forum?id=3jdI0aEW3k},
 note={}
 }
 ```
+- **Code**
+```bibtex
+@software{Swaminathan2025QML,
+  author    = {Swaminathan, A. and Akg{\"u}n, M.},
+  title     = {Distributed and Secure Kernel-Based Quantum Machine Learning - code},
+  version = {v1.0},
+  year      = {2025},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.18743937},
+  url       = {https://doi.org/10.5281/zenodo.18743937}
+}
 
 ## License
 
